@@ -1,0 +1,51 @@
+direction,feature_type,feature,coefficient
+spam,word,word__txt,1.077578480638008
+spam,word,word__call,1.0008468295889503
+spam,word,word__text,0.8700335015927567
+spam,word,word__you have,0.8050610152730819
+spam,word,word__uk,0.798639250554346
+spam,word,word__reply,0.7429028943015873
+spam,character,char__090,0.740713218579693
+spam,word,word__chat,0.7389025290086667
+spam,word,word__sms,0.7386970675780231
+spam,word,word__free,0.7169837813707451
+spam,character,char__ 08,0.6881074558619861
+spam,word,word__to,0.6815338227088701
+spam,word,word__www,0.6811691022913726
+spam,character,char__50p,0.6769888934157496
+spam,character,char__150,0.6475950858313466
+spam,word,word__claim,0.6424300401859487
+spam,word,word__arsenal,0.6342174703602148
+spam,word,word__co uk,0.6179453612143426
+spam,word,word__co,0.6104586088123325
+spam,word,word__com,0.6104401614076828
+spam,word,word__wap,0.6014757074070521
+spam,character,char__150p,0.5957414944593479
+spam,word,word__12,0.5881549292890988
+spam,word,word__150p,0.5829973604512924
+spam,character,char__xt ,0.5781280604637684
+ham,character,char__ i ,-0.7401660032884669
+ham,word,word__my,-0.5514973689022712
+ham,word,word__me,-0.4981370229190343
+ham,word,word__at,-0.40770265304275277
+ham,character,char__.. ,-0.38334922716811803
+ham,character,char__...,-0.3438991914750407
+ham,word,word__its,-0.3371435140155368
+ham,word,word__have you,-0.33076656047542213
+ham,word,word__mail,-0.3226105174556369
+ham,word,word__oh,-0.32195102849582097
+ham,word,word__pls,-0.32125523196814154
+ham,word,word__later,-0.31972409062236495
+ham,character,char__l. ,-0.3072276867311769
+ham,word,word__he,-0.3068722772541648
+ham,word,word__lt,-0.3068585764141046
+ham,character,char__:) ,-0.3043541680366474
+ham,character,char__call.,-0.30412627187319324
+ham,word,word__so,-0.302317623812784
+ham,word,word__call me,-0.3002608753119494
+ham,word,word__da,-0.29839328205598536
+ham,word,word__gt,-0.2960579438532954
+ham,word,word__liked,-0.2935853285155968
+ham,word,word__that,-0.2929639752161439
+ham,word,word__am free,-0.2920986612882657
+ham,character,char__all.,-0.29181663340465563
